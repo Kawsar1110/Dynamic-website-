@@ -1,4 +1,6 @@
 Email: Kawsar.kakon11@gmail.com
 Pass: 123456
 
+Batabase Name: inoba (For Import inoba.sql)
+
 (only Admin can registration)
